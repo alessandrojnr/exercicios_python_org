@@ -1,6 +1,6 @@
 
 
-# Resolução dos exercícios propostos pelo PYTHON.ORG
+# Resoluções dos exercícios propostos pelo PYTHON.ORG
 
 ![Python](https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=Python&logoColor=blue)
 
